@@ -7,8 +7,8 @@ https://www.youtube.com/watch?v=DHgj5jhMJKg&list=PLjcN1EyupaQm20hlUE11y9y8EY2aXL
 
 Changes made to original design:
 - Modified grenade physics to allow them to roll on collision with the floor
-- Changed text color for Ammo and Grenades beneath a certain threshold (increases visibility)
-- Altered side scrolling threshold when moving right across the level
+- Changed text color for Ammo and Grenades at or beneath a certain amount
+- Altered side scrolling threshold when moving right across the level (increases visibility)
 - Added a jumping cooldown to make it feel more natural
 - Reassigned some keybinds:
   - Jumping is bound to 'Space Bar'
