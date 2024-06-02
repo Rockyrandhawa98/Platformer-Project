@@ -2,7 +2,7 @@
 
 This is a platformer game made to practice and learn Pygame
 
-All credits goes to Coding with Russ in his video tutorial linked here:
+All credit goes to Coding with Russ in his video tutorial linked here:
 https://www.youtube.com/watch?v=DHgj5jhMJKg&list=PLjcN1EyupaQm20hlUE11y9y8EY2aXLpnv
 
 Changes made to original design:
